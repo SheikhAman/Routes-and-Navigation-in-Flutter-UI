@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      //home r initial route r jekono akta use korte hoi
+        //home r initial route r jekono akta use korte hoi
         // home: Screen0(),
 
         initialRoute: '/',
